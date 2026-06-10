@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<!--Come back and edit this properly again-->
 
 
 🔭 I’m currently working on creating **The Galway CS Hedge School**
@@ -9,6 +9,6 @@
 
 📫 How to reach me: ross@bish.ie
 
-⚡ Fun fact: I've driven to Africa 🌍
+⚡ Fun fact: I've driven from Ireland to Africa 🌍 
 
 
