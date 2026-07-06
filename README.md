@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🐛Creating bugs since 2002<br>📚 I'm currently learning Data Science & JavaScript<br>🎯 Goals - Promote & drive innovation as to how CS is taught in Irish Post Primary Schools.</p>
+<p data-importer="text" align="left">🐛Creating bugs since 2002<br>📚 I'm currently learning Data Science & JavaScript<br>🎯 Goals - Promote & drive innovation in how CS is taught in Irish Post Primary Schools.</p>
 
 ###
 
